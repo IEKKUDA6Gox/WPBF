@@ -7,6 +7,7 @@ Powerfull Wordpress Brute Force With A Macro
 example target : bkd.cilegonkab.go.id
 
 [SUBDOMAIN] contoh ressult : bkd
+
 [USER]               contoh result :  admin
 
 [DOMAIN]        contoh result : cilegonkab
